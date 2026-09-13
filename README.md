@@ -1,11 +1,11 @@
-# Sentinel Crypt 
+# SentinelCrypt
 
-A production-ready, cross-platform encryption suite built with Python and CustomTkinter.
+A cross-platform encryption suite with a desktop GUI and a web interface, built with Python and CustomTkinter.
 
 ## Features
 - **AES-256-GCM Encryption**: Authenticated encryption for file integrity.
 - **RSA-2048 Key Management**: Secure key pair generation and storage.
-- **Modern GUI**: Built with CustomTkinter for a sleek dark-mode experience.
+- **Modern GUI**: Built with CustomTkinter, dark mode.
 - **PBKDF2 Key Derivation**: Protection against brute-force attacks.
 
 ## Tech Stack
