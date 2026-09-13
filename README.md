@@ -1,5 +1,8 @@
 # SentinelCrypt
 
+[![Tests](https://github.com/abdulrhmansaad456eg/SentinelCrypt/actions/workflows/tests.yml/badge.svg)](https://github.com/abdulrhmansaad456eg/SentinelCrypt/actions/workflows/tests.yml)
+
+
 A cross-platform encryption suite with a desktop GUI and a web interface, built with Python and CustomTkinter.
 
 ## Features
